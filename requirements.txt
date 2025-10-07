@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+alembic
+email-validator
+python-dateutil
+dateparser
+pdfminer.six
+pytesseract
+Pillow
+python-magic
+requests
+sqlalchemy
